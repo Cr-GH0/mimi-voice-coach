@@ -5,7 +5,7 @@
 ## 启动服务
 
 ```bash
-git clone https://github.com/Cr-GH0/4f7e58cb4b3dac247de1b8e6e68c1e94.git mimi
+git clone https://github.com/Cr-GH0/mimi-voice-coach.git mimi
 cd mimi/hermes-volc-standalone
 node server.mjs
 ```
